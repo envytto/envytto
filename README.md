@@ -4,7 +4,7 @@
 <h1 align="center"><b>I'M ENVYTTO</b></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Student,;FiveM+Cheat+Creator,;SS+Team+ITA,;Ethical+Hacker"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Analyst;FiveM+Cheat+Creator;SS+Team+ITA;Ethical+Hacker"></a>
 </p>
 
 
@@ -16,15 +16,13 @@
 
 
 
-- 👋 Hi, I’m @MdAmiruddin
-- 👀 I’m a CyberSecurity Enthusiast.
-- 🌱 I’m currently learning with Google.
-- 💞️ I’m looking to collaborate with cybersecurity python projects.
-- 📫 How to reach me .. By my youtube [channel](https://bit.ly/3yeJeS9).
-- 📝 I write CTF [Blog](https://mdamiruddin.github.io) and articles on [Medium](https://mdamiruddin.medium.com).
-- Feel free to connect with me on Linkedin.
-- Learning new technologies everyday to become better than my past self.
- 
+-  Hi, I’m @envytto
+-  I’m a CyberSecurity Enthusiast.
+-  I’m currently learning with LearnP.
+-  I’m looking to collaborate with security exploits projects.
+-  How to reach me .. DISCORD [channel](@envytto).
+
+
  
 <br>
 
