@@ -2,13 +2,13 @@
     <br size="100px" align="center">ENVYTTO
 </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=40&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Analyst;FiveM+Cheat+Creator;SS+Team+ITA;Ethical+Hacker"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=30&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Analyst;FiveM+Cheat+Creator;SS+Team+ITA;Ethical+Hacker"></a>
 </p>
 
 <br>
 
 ## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif"></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZ2b3l0Nnhqb2Y1dHV0YnA4MDV4NWI2aXh1a3J5NThyeWg3a3lzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif"></picture>
 
 -  Hi, I’m @envytto
 -  I’m a CyberSecurity Enthusiast.
