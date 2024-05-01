@@ -1,5 +1,5 @@
 <h1 align="Center">
-    <br align="center" color="green">WELCOME<br>
+    <br align="center" <FONT COLOR="green">>WELCOME<br>
 </h1>
 <h1 align="center"><b>I'M ENVYTTO</b></h1>
 
