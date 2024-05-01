@@ -8,7 +8,7 @@
 <br>
 
 ## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
-<picture> <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZlcThpcGxkNzRibzJ0ZW1vZWw4Y2FrNjdrZW84ZG4zNWl6Y2NmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btPSUgEgcFybC36/giphy.gif"></picture>
+<picture> <img align="centre" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZlcThpcGxkNzRibzJ0ZW1vZWw4Y2FrNjdrZW84ZG4zNWl6Y2NmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btPSUgEgcFybC36/giphy.gif"></picture>
 
 -  Hi, I’m @envytto
 -  I’m a CyberSecurity Enthusiast.
