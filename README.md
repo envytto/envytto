@@ -8,15 +8,14 @@
 <br>
 
 <picture> <img align="Left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHV0cnZxMGt0Njl3emxlczR3dHYyaW96dWJmazVueGMyZHZxeGs0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xD5ZIsxGJuhUqs/giphy.gif"></picture>
-
+<br>
  **ABOUT ME**
 
-
--  Hi, I’m @envytto
--  I’m a CyberSecurity Enthusiast.
--  I’m currently learning with LearnP.
--  I’m looking to collaborate with security exploits projects.
--  How to reach me .. DISCORD (@envytto).
+    Hi, I’m @envytto
+    I’m a CyberSecurity Enthusiast.
+    I’m currently learning with LearnP.
+    I’m looking to collaborate with security exploits projects.
+    How to reach me .. DISCORD (@envytto).
 <br>
 <br>
 <br>
