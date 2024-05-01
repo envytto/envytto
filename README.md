@@ -20,7 +20,7 @@
 -  I’m a CyberSecurity Enthusiast.
 -  I’m currently learning with LearnP.
 -  I’m looking to collaborate with security exploits projects.
--  How to reach me .. DISCORD [channel](@envytto).
+-  How to reach me .. DISCORD (@envytto).
 
 
  
