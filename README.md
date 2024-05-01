@@ -10,7 +10,7 @@
 
 
 ## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif"></picture>
+<picture> <img align="right" src="<iframe src="https://giphy.com/gifs/loop-glitch-matrix-l0IyeheChYxx2byDu"></picture>
 
 <br>
 
