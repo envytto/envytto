@@ -2,7 +2,7 @@
     <br size="100px" align="center">ENVYTTO
 </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=30&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Analyst;FiveM+Cheat+Creator;SS+Team+ITA;Ethical+Hacker"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=Black&size=30&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Analyst;FiveM+Cheat+Creator;SS+Team+ITA;Ethical+Hacker"></a>
 </p>
 
 <br>
@@ -23,7 +23,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Contribution </b>
 <div align="center">
-  <a href="https://github.com/MdAmiruddin/MdAmiruddin">
+  <a href="https://github.com/envytto">
   <img  src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/gridsnake.svg"
        alt="snake" /></a>
 </div>
