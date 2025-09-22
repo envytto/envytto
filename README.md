@@ -6,7 +6,7 @@
 </p>
 
 <br>
-<picture> <img align="Left" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRzeDJud21iNHYzYnJydGQwbXhobzhxeDF0YnkwY2x4ZmJpamk1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q6gzszRDonw3u/giphy.gif"></picture>
+<picture> <img align="Left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI1cGlheHJoNXA3aTI5eGNrajd1c2xhMjdvNmEzdGxuaHdta3VyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ib9F0PHGlKxSBMzBsY/giphy.gif"></picture>
 <br>
  
  **ABOUT ME**
@@ -14,8 +14,10 @@
     Hi, I’m Vittorio
     I’m a CyberSecurity Enthusiast.
     I’m currently learning with EC Council.
-    I am currently looking for my first role in the IT industrty,
-    Unfortunately I'm a very bright individual lacking experience.
+    I am currently looking for my first role
+    in the IT industrty,
+    Unfortunately I'm a very bright individual 
+    lacking experience.
     
 <br>
 <br>
